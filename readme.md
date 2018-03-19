@@ -14,9 +14,9 @@ As Font I use [**Font Awesome**](https://fontawesome.com) and [**YosemiteSanFran
 
 
 Software I use is:
-As Terminal [**rxvt-unicode**](https://wiki.ubuntuusers.de/rxvt-unicode/) \n
-As Editor [**vim**](https://wiki.ubuntuusers.de/VIM/) \n
-As Shell [**oh-my-zsh**](https://github.com/robbyrussell/oh-my-zsh) /n
+As Terminal [**rxvt-unicode**](https://wiki.ubuntuusers.de/rxvt-unicode/) (\n)
+As Editor [**vim**](https://wiki.ubuntuusers.de/VIM/) [\n9
+As Shell [**oh-my-zsh**](https://github.com/robbyrussell/oh-my-zsh) [/n]
 As Browser [**Vivaldi**](https://vivaldi.com/).
 
 

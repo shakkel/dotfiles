@@ -11,15 +11,15 @@ As Font I use [**Font Awesome**](https://fontawesome.com) and [**YosemiteSanFran
 
 
 
+
+
 Software I use is:
-
 As Terminal [**rxvt-unicode**](https://wiki.ubuntuusers.de/rxvt-unicode/)
-
 As Editor [**vim**](https://wiki.ubuntuusers.de/VIM/)
-
 As Shell [**oh-my-zsh**](https://github.com/robbyrussell/oh-my-zsh)
-
 As Browser [**Vivaldi**](https://vivaldi.com/).
+
+
 
 
 
